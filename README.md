@@ -1,10 +1,10 @@
-<h1>Career Hunt</h1>
+<h1>CareerConnect</h1>
 
 https://job-portal-v7al.onrender.com
 
 ## 📌 Project Overview
 
-**JobConnect** is a full-stack dynamic job portal that allows **job seekers** and **employers** to interact seamlessly. It features two separate authentication systems tailored to each user type, creating a smooth and secure experience.
+**CareerConnect** is a full-stack dynamic job portal that allows **job seekers** and **employers** to interact seamlessly. It features two separate authentication systems tailored to each user type, creating a smooth and secure experience.
 
 - Job Seekers can:
   - Sign up and create a professional profile.
