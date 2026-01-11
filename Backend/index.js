@@ -21,7 +21,7 @@ app.use(bodyParser.urlencoded({extended:true}));
 app.use(urlencoded({extended:true}));
 app.use(cookieParser());//Parses cookies sent with incoming HTTP requests and makes them accessible through req.cookies.
 const corsOptions={
-    origin:'https://job-portal-v7al.onrender.com',
+    origin: process.env.CORS_ORIGIN || "*",
     credentials:true
 }
 app.use(cors(corsOptions));
