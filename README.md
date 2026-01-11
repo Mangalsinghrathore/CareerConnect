@@ -1,6 +1,6 @@
 <h1>CareerConnect</h1>
 
-https://job-portal-v7al.onrender.com
+https://career-connect-swart.vercel.app/
 
 ## 📌 Project Overview
 
@@ -47,6 +47,10 @@ https://job-portal-v7al.onrender.com
 ## 🖼️ Screenshots
 
 ### 🔻 Landing Page
-> <img width="1249" alt="Screenshot 2025-06-30 at 6 39 51 PM" src="https://github.com/user-attachments/assets/720e91c0-1fd5-47de-a353-082494b62e05" />
+![App Demo](screenshots/1.png)
+### 🔻 Login Page
+![App Demo](screenshots/2.png)
+### 🔻 Signup Page
+![App Demo](screenshots/3.png)
 
 
